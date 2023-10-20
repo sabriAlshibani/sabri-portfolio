@@ -1,0 +1,84 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "77b3693facc3d803417105997b4ffe96",
+      "css": "facebook",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "css": "twitter-bird",
+      "code": 62211,
+      "src": "brandico"
+    },
+    {
+      "uid": "c64623255a4a7c72436b199b05296c4f",
+      "css": "emo-happy",
+      "code": 59394,
+      "src": "fontelico"
+    },
+    {
+      "uid": "ae3so8q0b0n2h8esv9flua2nmwswa8fd",
+      "css": "mail-1",
+      "code": 59395,
+      "src": "modernpics"
+    },
+    {
+      "uid": "d4d52a448819e8d5e849b8126416b640",
+      "css": "html5",
+      "code": 59396,
+      "src": "zocial"
+    },
+    {
+      "uid": "01c946ce2ed5500e0a918f2b3a7d1923",
+      "css": "css3",
+      "code": 61756,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "41087bc74d4b20b55059c60a33bf4008",
+      "css": "edit",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ae734e5d304b9680558ab6b4449d55ee",
+      "css": "math-circled-empty",
+      "code": 61467,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "bdbe271209e960374ab5518b57d59b71",
+      "css": "linkedin(1)",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M812.5 62.5H62.3C27.9 62.5 0 90.8 0 125.6V874.4C0 909.2 27.9 937.5 62.3 937.5H812.5C846.9 937.5 875 909.2 875 874.4V125.6C875 90.8 846.9 62.5 812.5 62.5ZM264.5 812.5H134.8V394.9H264.6V812.5ZM199.6 337.9C158 337.9 124.4 304.1 124.4 262.7S158 187.5 199.6 187.5C241 187.5 274.8 221.3 274.8 262.7 274.8 304.3 241.2 337.9 199.6 337.9ZM750.6 812.5H620.9V609.4C620.9 560.9 619.9 498.6 553.5 498.6 485.9 498.6 475.6 551.4 475.6 605.9V812.5H345.9V394.9H470.3V452H472.1C489.5 419.1 531.8 384.6 594.9 384.6 726.2 384.6 750.6 471.1 750.6 583.6V812.5Z",
+        "width": 875
+      },
+      "search": [
+        "linkedin(1)"
+      ]
+    }
+  ]
+}
